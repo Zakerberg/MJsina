@@ -1,0 +1,6 @@
+framework module Pods_MJSina {
+  umbrella header "Pods-MJSina-umbrella.h"
+
+  export *
+  module * { export * }
+}
